@@ -6,7 +6,7 @@ To deliver a multi-year financial analysis (2014–2017) of SuperStore’s perfo
 
 ## Dataset used
 
-<a href="https://github.com/Toxinblaze/Superstore-Financial-Dashboard/blob/main/Sample%20-%20Superstore.csv">Dataset Used</a>
+<a href="https://github.com/Toxinblaze/Superstore-Financial-Dashboard/blob/main/Sample%20-%20Superstore.csv">Dataset</a>
 
 ## Process
 
@@ -16,4 +16,5 @@ To deliver a multi-year financial analysis (2014–2017) of SuperStore’s perfo
 
 - Implemented year selection, drill-downs, and visual comparisons across time, category, region, segment, and shipping mode.
 
-- Dashboard Interaction <a href="https://github.com/Toxinblaze/Superstore-Financial-Dashboard/blob/main/SuperStore%20Financial%20Overview.png">View Dashboard<a/>
+## Dashboard 
+![SuperStore Financial Overview](https://github.com/user-attachments/assets/00745c62-d72c-442c-ac78-ee741bf7079e)
