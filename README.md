@@ -18,3 +18,27 @@ To deliver a multi-year financial analysis (2014–2017) of SuperStore’s perfo
 
 ## Dashboard 
 ![SuperStore Financial Overview](https://github.com/user-attachments/assets/00745c62-d72c-442c-ac78-ee741bf7079e)
+
+## Key Findings
+
+-Consistent year-over-year growth from 2014 to 2017 across all KPIs.
+
+-2017 recorded peak performance in Sales ($733.22K) and Orders (1.69K), both with over 20% growth from the previous year.
+
+-Strong regional contributions from California, New York, and Texas.
+
+-Technology and Office Supplies were top performing categories, with Consumer as the leading segment.
+
+-First Class and Same Day shipping methods showed the fastest growth, despite lower overall volume.
+
+## Insights & Recommendations
+
+-Sustain momentum in Technology and Consumer focused strategies, this will drive top revenue across all years.
+
+-Analyze underperforming states and consider regional campaigns or operational shifts.
+
+-Optimize logistics by investing in fast growing delivery modes (First Class, Same Day).
+
+-Leverage year end peaks (especially in 4th Quarter which are between October and December) for targeted promotions and inventory planning.
+
+-Continue tracking trends annually to maintain data driven agility in sales and operations.
